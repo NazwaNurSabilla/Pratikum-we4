@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <fieldset>
+        <legend>
+            <h1>Portofolio</h1>
+        </legend>
+  <table style="width: 90%;">
+    <body>
+        <tr>
+            <td>
+                <img width="280px" src="foto.jpg" alt="">
+            </td>
+            <td>
+                <h1>Porfile Name</h1>
+                <p>Nama :Nazwa Nur Sabilla</p>
+                <p>Alamat :jl.kober kekupu kel.pasir putih kec.sawangan kota depok</p>
+                <p>E-mail :nazwanursabilla538@gmail.com</p>
+                <p>Telepone :0851-7408-2761</p>
+            </td>
+            <td>
+                <h3>Categories</h3>
+                <a href="https://www.google.com/maps/d/embed?mid=1xh_Tdki-Ooj1gHuvTxRH6adaqlA&hl=en_US&ehbc=2E312F">Maps</a>
+                <br>
+                <a href="https://elena.nurulfikri.ac.id">Elena</a>
+            </td>
+        </tr>
+    </body>
+  </table>
+<br>
+  <div class="section">
+    <article>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste non molestias quas explicabo totam ex illo, quis possimus dolore, tempore iusto mollitia pariatur harum doloremque ipsum nemo provident dolor in aliquam ipsam laborum reprehenderit quae. Magni accusamus quidem dignissimos porro! Blanditiis incidunt, tenetur laborum quae molestiae consequuntur corporis esse enim maiores officia consequatur praesentium ducimus omnis odit ad et. Repellat totam autem quaerat nihil veniam voluptatem sequi fugiat. Aspernatur reprehenderit hic neque distinctio praesentium harum laborum, ex recusandae temporibus quisquam quibusdam! Laboriosam reprehenderit odio eos facere earum neque accusantium modi maxime, necessitatibus a tempora ipsum quaerat minima dolore repellat inventore?
+    </article>
+    <br>
+    <article>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident facere voluptatem error beatae culpa similique earum repellendus sit, repudiandae veritatis tenetur doloremque esse voluptates corporis possimus quo velit laudantium nemo. Eos vel odit, ea non ullam nam, nesciunt officiis ducimus numquam veritatis tempora suscipit labore amet inventore tempore modi quos consectetur porro, veniam libero totam! Rerum inventore dolores laudantium accusantium aliquam harum. Vitae, rem. Quos cum minus a, sint, possimus sit iure beatae repudiandae eum quae quo nostrum accusantium sunt. Asperiores pariatur a minima distinctio minus hic voluptatem voluptas dolore culpa magni! Ullam eos vitae reprehenderit cupiditate fugiat voluptates magnam.
+    </article>
+  </div>
+<br>
+<table style="width: 100%;">
+    <body>
+        <tr>
+            <td>
+              <fieldset>
+                    <iframe width="300px" height="300px" src="https://www.youtube.com/embed/0os8Gme8GIM?si=Mmr0k1hEdIcadjxT" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </fieldset>
+                </td>
+                <td >
+                 <fieldset>
+                    <img height="150px" width="270px" src="motor zx.jpg" alt="">
+                    <img height="150px" width="270px" src="motor zx.jpg" alt="">
+                    <img height="150px" width="270px" src="motor zx.jpg" alt="">
+                    <img height="150px" width="270px" src="motor zx.jpg" alt="">
+                </fieldset>
+                </td>
+            <td>
+                <fieldset style="height:300px; width:300px;">
+                    <h3>categories</h3>
+                    <a  href="https://www.youtube.com">YOUTUBE</a></br>
+                    <a  href="https://www.youtube.com/embed/Z-zqQ2HS798?si=_0PmiYsTvmnGjgNt">Pembelajaran1</a></br>
+                    <a  href="https://www.youtube.com/embed/-mIDXfPh3g0?si=YpBzzLoV5cHGOwi3">Pembelajaran2</a></br>
+                </fieldset>
+                
+            </td>
+        </tr>
+    </body>
+  </table>
+</fieldset>
+</body>
+  </html>
